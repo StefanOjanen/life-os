@@ -59,8 +59,4 @@ Replies can be email or chat, short and forgiving: `done N4`, `N4 Fri`, `park N2
 
 ## Licence
 
-Copyright (C) 2026 Stefan Ojanen
-
-Licensed under the [GNU Affero General Public License v3.0 or later](https://www.gnu.org/licenses/agpl-3.0.html), see `LICENSE`.
-
-In short: you may use, modify and run this, including commercially. If you distribute a modified version, or run one as a service for other people, you must publish your changes under the same licence. Using it privately for yourself creates no obligation. This is not legal advice.
+MIT, see `LICENSE`. Copyright (c) 2026 Stefan Ojanen.
