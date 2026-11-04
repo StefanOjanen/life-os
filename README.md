@@ -59,6 +59,8 @@ Replies can be email or chat, short and forgiving: `done N4`, `N4 Fri`, `park N2
 
 ## Licence
 
-[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0), see `LICENSE`.
+Copyright (C) 2026 Stefan Ojanen
 
-Free for personal use, research, education and other noncommercial purposes. Commercial use, including use inside a business, is not permitted without a separate licence from the author. This is a source-available licence, not an OSI-approved open-source licence.
+Licensed under the [GNU Affero General Public License v3.0 or later](https://www.gnu.org/licenses/agpl-3.0.html), see `LICENSE`.
+
+In short: you may use, modify and run this, including commercially. If you distribute a modified version, or run one as a service for other people, you must publish your changes under the same licence. Using it privately for yourself creates no obligation. This is not legal advice.
