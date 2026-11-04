@@ -59,4 +59,6 @@ Replies can be email or chat, short and forgiving: `done N4`, `N4 Fri`, `park N2
 
 ## Licence
 
-MIT, see `LICENSE`.
+[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0), see `LICENSE`.
+
+Free for personal use, research, education and other noncommercial purposes. Commercial use, including use inside a business, is not permitted without a separate licence from the author. This is a source-available licence, not an OSI-approved open-source licence.
