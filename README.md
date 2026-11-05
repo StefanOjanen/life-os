@@ -2,7 +2,7 @@
 
 A personal operating system built on Claude. A private git repository of markdown files plus a scheduled cloud routine that runs twice a day in one persistent chat session. The routine triages email, checks the calendar, chases open tasks and sends a short brief.
 
-This is a template. Fork it into a **private** repository, fill in `CLAUDE.md`, and follow `SETUP.md`. Provided as-is, without support.
+This is a template. Create your own **private** repository from it ("Use this template" → Private; a fork of a public repository cannot be private), fill in `CLAUDE.md`, and follow `SETUP.md`. Provided as-is, without support.
 
 ## Design principle
 

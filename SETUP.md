@@ -2,7 +2,7 @@
 
 Requirements: a Claude plan with Claude Code and scheduled routines, a GitHub account, a Gmail account, Google Calendar.
 
-1. **Create a private repository** from this template. Do not make it public: the journal and task files will contain personal data.
+1. **Create a private repository** from this template: "Use this template" → "Create a new repository" → visibility Private. Do not fork (forks of a public repository stay public). Do not make it public: the journal and task files will contain personal data.
 2. **Edit `CLAUDE.md`.** Fill in who you are, working hours, language, what counts as noise, and the permissions you grant. Start strict: send mail to yourself only, drafts only, calendar read-only.
 3. **Connect** the Gmail, Google Calendar and GitHub connectors to Claude and grant the GitHub app access to the private repository.
 4. **Create the Gmail labels** listed in `gmail/rules.md`, then replace the example senders with your own. Note the label IDs the connector returns and put them in `gmail/rules.md`.
